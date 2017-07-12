@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Best Bud Toys"
 title_separator          : "-"
-name                     : "Toys for your Best Bud"
-description              :
+name                     : "Best Bud Toys"
+description              : "Toys for your Best Bud"
 url                      : "https://www.bestbudtoys.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
